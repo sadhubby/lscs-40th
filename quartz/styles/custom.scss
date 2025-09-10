@@ -1,3 +1,14 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+article table{
+    width: 100%;
+    table-layout: fixed;
+}
+
+article table th,
+article table td {
+  word-wrap: break-word;
+  white-space: normal;
+}
