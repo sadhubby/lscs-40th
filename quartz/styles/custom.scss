@@ -4,7 +4,7 @@
 
 article table{
     width: 100%;
-    table-layout: fixed;
+    table-layout: auto;
 }
 
 article table th,
@@ -12,3 +12,4 @@ article table td {
   word-wrap: break-word;
   white-space: normal;
 }
+

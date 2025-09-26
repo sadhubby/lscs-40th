@@ -30,6 +30,8 @@ To be able to see the requirements of a certain activity, consult the **CSO Acti
 Navigate to the **[2] Templates** of our Google Drive to find the required templates. 
 Make a copy of the required templates into the committee folder. 
 
+When you do put in the required templates, you will have it be renamed to [#] Template. To know its sequential order, refer to the Activity Reference Guide.
+
 ### Things to Note
 
 1. If activity will be **broadcasted**, include a **Broadcast Consent Form**. Only need the draft of said form for pre-acts
@@ -42,18 +44,34 @@ Make a copy of the required templates into the committee folder.
 	- All forms will be pasted into the document **Registration with Data Privacy**. You may cut the section off so that the contents will be more visible.
 4. If the event has speakers / mentors / judges, include **Letter of Invitation to Speakers** in the Pre-Acts folder.
 	- We would also need a Credentials of Speakers.
-	- For our process, we will submit Credentials and Letter of Invitation with only LSCS Officers credentials. This would also be the same for the PPR. 
-	- Then Letters of Invitation will be revised for Post-Acts.
+	- For our process, we will submit Credentials and Letter of Invitation with only <mark style="background: #ABF7F7A6;">LSCS Officers credentials</mark>. This would also be the same for the PPR, wherever the speaker is mentioned
+	- Then Letters of Invitation will be revised and go through signing with SLIFE before the event proper starts. 
+
+## Compiling
+
+Compiling will be done sequentially by the numbers that were set earlier.
+
+## Signing
+
+When you finishing compiling, you go through signing. This will be your order:
+
+VP FIN > EVP of Committee's Division > EVP-Ops for endorsement > Faculty Adviser (should it be needed, 
+
+**i.e., no Blanket of Approval, event got SAS'd 7 days after what was in Blanket of Approval**).
 
 ---  
 
 # Post-Acts
+
+***FILE NAME and EMAIL SUBJECT FORMAT:*** [LSCS POST-ACTS] Event Name
 
 Start Post-Activity after the last activity date. The latest submission possible is a **month** after the last activity date. 
 
 ## Templates
 
 Firstly, to know which templates to input, check the LSCS DTS. In the row of the approved pre-acts submission, you will be given a list of documents that they will require from us to submit. 
+
+The templates will be sequenced based on the <mark style="background: #ABF7F7A6;">LSCS DTS Post-Acts requirements</mark>. (i.e., *[1] [APPROVED PRE-ACTS] Event Name* )
 
 Please put all required templates into **[1] Activity Folder** > **[X] Committee** > **Term X / Yearlong** > **[MM/DD/YYYY] Activity Name** > **[2] Post-Acts**
 
@@ -75,12 +93,42 @@ Please put all required templates into **[1] Activity Folder** > **[X] Committee
 	2. ALWAYS make sure the project heads' answers are in third person (i.e., no statements such as *we should have* or *we did xyz*).
 	3. What went well and What went wrong **MUST BE** within activity proper.
 
-4. **MOA Emails**  
+4.  **Letter of Invitations**
+	1. If there are revised letter of invitations, it goes directly after the **[1] Approved Pre-Acts**
+
+5. **MOA Emails**  
 	When asked for approved MOA's, also attach the email thread of signing after the MOA. This helps in the determining the status of MOAs instead of fully relying on the USG DAAM. 
+
+6. **SAS**  
+	SAS will <mark style="background: #ABF7F7A6;">**ALWAYS**</mark> go directly after the Approved Pre-Acts and before the next in the post-acts requirements.
+
+## Compiling
+
+Compile by the sequence and just make sure it is the same as the LSCS DTS Post-Acts Requirements.
+
+## Signing
+For Post-Acts Signing, just ask for endorsement with EVP-Ops since the only signatory is the President at the Post-Activity Report. The faculty signature is also not needed if in Blanket of Approval... **UNLESS that the event happened 7 days after what was in Blanket of Approval.**
+
 
 --- 
 
 # SAS (Special Approval Slip)
 
+***FILE NAME and EMAIL SUBJECT FORMAT:*** [LSCS SAS] Event Name
+
+We file special approval slips whenever there is a change for any of our events. In case of SAS, project heads must inform Evan and Docu-in-Charge.
+
+See this table as to what the requirements are for each SAS change to be filed.
 
 
+| **SAS CHANGES TYPE**     |     | **SUBMISSION GUIDELINES**                                                                                     |     | **REQUIREMENTS**                                                                                                                                                                |
+|:------------------------ | --- | ------------------------------------------------------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Activity not in GOSM     |     | Must be submitted <mark style="background: #ABF7F7A6;">**before**</mark> submission of pre-activity documents |     | 1. SAS                                                                                                                                                                          |
+| Cancellation of Activity |     | SAS may be sumitted anytime within the term                                                                   |     | 1. SAS <br> 2. Approved A-Form                                                                                                                                                  |
+| In Case of Change        |     | SAS must be submitted at most 1 day after first approved date                                                 |     | <mark style="background: #ABF7F7A6;">**Change in Date, Time or Venue**</mark> <br> 1. SAS <br> 2. Approved A-Form                                                                                                           |
+|                          |     |                                                                                                               |     | <mark style="background: #ABF7F7A6;">**Change in Program Design**</mark> <br> 1. SAS <br> 2. Approved A-Form <br> 3. Revised Comprehensive Program Design (CPD)                                                             |
+|                          |     |                                                                                                               |     | <mark style="background: #ABF7F7A6;">**Change in Number of Speakers**</mark> <br> 1. SAS <br> 2. Approved A-Form <br> 3. CPD for changes in Program Flow <br> 4. Credentials of Speakers (for change in number of speakers) |
+|                          |     |                                                                                                               |     | <mark style="background: #ABF7F7A6;">**Change in Finance**</mark> <br> 1. SAS <br> 2. Approved A-Form <br> 3. Revised Finances (sections V to IX of PPR) <br> 4. Endorsement of EVC-F                                       |
+|                          |     |                                                                                                               |     | <mark style="background: #ABF7F7A6;">**Change in Partnerships**</mark> <br> 1. SAS <br> 2. Approved A-Form <br> 3. Revised primer (for changes in primer) <br> 4. Additional draft MOA for internal partnerships            |                                                                                                                                                                                                                          |
+
+# 

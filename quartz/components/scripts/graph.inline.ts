@@ -209,7 +209,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const numLinks = graphData.links.filter(
       (l) => l.source.id === d.id || l.target.id === d.id,
     ).length
-    return 2 + Math.sqrt(numLinks)
+    return 6 + Math.sqrt(numLinks)
   }
 
   let hoveredNodeId: string | null = null
@@ -507,6 +507,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         .on("zoom", ({ transform }) => {
           currentTransform = transform
           stage.scale.set(transform.k, transform.k)
+
           stage.position.set(transform.x, transform.y)
 
           // zoom adjusts opacity of labels too
