@@ -32,6 +32,8 @@ Make a copy of the required templates into the committee folder.
 
 When you do put in the required templates, you will have it be renamed to [#] Template. To know its sequential order, refer to the Activity Reference Guide.
 
+<mark style="background: #FF5582A6;">**Here are some sample file name sequences based on the Activity Reference Guide [[Pre-Acts File Name Examples]]**</mark>
+
 ### Things to Note
 
 1. If activity will be **broadcasted**, include a **Broadcast Consent Form**. Only need the draft of said form for pre-acts
@@ -49,7 +51,9 @@ When you do put in the required templates, you will have it be renamed to [#] Te
 
 ## Compiling
 
-Compiling will be done sequentially by the numbers that were set earlier.
+Compiling will be done sequentially by the numbers that were set earlier. See again [[Pre-Acts File Name Examples]] for how the sequence of compiling will be done.
+
+The file name **MUST** be: [LSCS PRE-ACTS] Activity Name
 
 ## Signing
 
@@ -58,6 +62,8 @@ When you finishing compiling, you go through signing. This will be your order:
 VP FIN > EVP of Committee's Division > EVP-Ops for endorsement > Faculty Adviser (should it be needed, 
 
 **i.e., no Blanket of Approval, event got SAS'd 7 days after what was in Blanket of Approval**).
+
+Here is an example of the signing process via email [[Email Process]]
 
 ---  
 
