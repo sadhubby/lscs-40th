@@ -1,4 +1,5 @@
---- title: "Documentations and Logistics Manual"
+---
+title: Documentations and Logistics Manual
 draft: false
 tags:
 ---
