@@ -68,6 +68,7 @@ Here is an example of the signing process via email [[Email Process]]
 
 Afterwards we wait for approval
 
+
 # Event Logistics and Requests
 
 All event logistics and processes can be found in [[F2F Logistics Manual]]. 
