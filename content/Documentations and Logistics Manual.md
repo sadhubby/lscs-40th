@@ -1,11 +1,12 @@
 ---
-title: "Documentations and Logistics Manual"
+title: Documentations and Logistics Manual
 draft: false
 tags:
 ---
 Hello my officers!!!!
 
 Welcome to the 40th DocuLogi Manual. This will be where you can find the specifics and particulars on our processes with Pre-Acts, Post-Acts and a myriad of other documents. Please do note that this will be only a further discussion on specific processes within the already established sistema. The sistema that you may find in the home page of this site.
+
 
 # Pre-Acts
 
@@ -65,6 +66,20 @@ VP FIN > EVP of Committee's Division > EVP-Ops for endorsement > Faculty Adviser
 **i.e., no Blanket of Approval, event got SAS'd 7 days after what was in Blanket of Approval**).
 
 Here is an example of the signing process via email [[Email Process]]
+
+Afterwards we wait for approval
+
+
+# Event Logistics and Requests
+
+All event logistics and processes can be found in [[F2F Logistics Manual]]. 
+
+For SLIFE Requests processes, these can be found in [[SLIFE Requests Manual]]
+
+
+> [!NOTE] When to do F2F Logistics?
+> Face to Face logistics do not need pre-acts approval. Therefore, we can always ask the project heads to accomplish ahead of Pre-Acts completion / approval.
+
 
 ---  
 
