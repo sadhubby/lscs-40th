@@ -36,7 +36,7 @@ When you do put in the required templates, you will have it be renamed to [#] Te
 
 ### Things to Note
 
-1. If activity will be **broadcasted**, include a **Broadcast Consent Form**. Only need the draft of said form for pre-acts
+1. If activity will be **broadcasted**, include a **Broadcast Consent Form**. Only need the draft of said form for pre-acts. Not even needed to pass this on pre-acts. 
 2. If activity has **MOA** ( which is usual for Socio, Univ-Rel, Corp-Rel ):
 	- All MOAs will be in a folder in the Pre-Acts folder called MOA. Dependent on the activity, this will be appended after standard and some documents. ( Meaning the folder will be [#] MOA).  
 	- **Internal MOA**: Only draft and unsigned MOA is needed for pre-acts  
@@ -44,8 +44,9 @@ When you do put in the required templates, you will have it be renamed to [#] Te
 3. If activity is synchronous ( face-to-face events like General Assemblies ), include copy of **Pre-Registration Form** and **GALS Google Form** found in **[2] Template** > **[5] Forms**
 	- Make sure that the project heads use the Google Forms header
 	- All forms will be pasted into the document **Registration with Data Privacy**. You may cut the section off so that the contents will be more visible.
-4. If the event has speakers / mentors / judges, include **Letter of Invitation to Speakers** in the Pre-Acts folder.
+4. If the event has speakers / mentors / judges / tutors / ANY INVITED PERSON include **Letter of Invitation to Speakers** in the Pre-Acts folder.
 	- We would also need a Credentials of Speakers.
+	- So if any speakers, mentors, judges, referees, tutors, or whoever else is invited to be part of event, need Credentials and also Letter of Invitation
 	- For our process, we will submit Credentials and Letter of Invitation with only <mark style="background: #ABF7F7A6;">LSCS Officers credentials</mark>. This would also be the same for the PPR, wherever the speaker is mentioned
 	- Then Letters of Invitation will be revised and go through signing with SLIFE before the event proper starts. 
 
